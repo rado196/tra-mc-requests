@@ -22,4 +22,5 @@
 - [05 - pickupCompleted](./ride/05-pickup-completed.md)
 - [06 - dropoffArrived](./ride/06-dropoff-arrived.md)
 - [07 - dropoffCompleted](./ride/07-dropoff-completed.md)
-- [07 - locationReported](./ride/08-location-reported.md)
+- [08 - locationReported](./ride/08-location-reported.md)
+- [09 - rideChanged (WillCall)](./ride/09-initiate-willcall.md)
