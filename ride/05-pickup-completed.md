@@ -1,4 +1,4 @@
-# rideScheduled
+# pickupCompleted
 
 ### Request:
 
