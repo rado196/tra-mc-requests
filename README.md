@@ -22,4 +22,4 @@
 - [05 - pickupCompleted](./ride/05-pickup-completed.md)
 - [06 - dropoffArrived](./ride/06-dropoff-arrived.md)
 - [07 - dropoffCompleted](./ride/07-dropoff-completed.md)
-
+- [07 - locationReported](./ride/08-location-reported.md)
