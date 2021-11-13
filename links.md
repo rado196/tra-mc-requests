@@ -1,5 +1,5 @@
-| Request name       | Method    | URL                                                                              |
-|--------------------|-----------|----------------------------------------------------------------------------------|
+| Request name       | Method    | URL                                                                               |
+|--------------------|-----------|-----------------------------------------------------------------------------------|
 | App Login          | POST      | https://api.therightassist.com/api/insurance/modivcare/oauth2/token               |
 | Check Access Token | GET       | https://api.therightassist.com/api/insurance/modivcare/oauth2/check-access-token  |
 | Create Vehicle     | POST      | https://api.therightassist.com/api/insurance/modivcare/TP_ID/vehicles             |
